@@ -17,6 +17,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+
 // home cách 1
 Route::get('/', function () {
     return view('welcome');
